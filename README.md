@@ -7,9 +7,8 @@ A collaborative **Group Expense Tracker Web App** built by a team of four to man
 ## 🛠️ Tech Stack
 
 - **Language:** Java
-- **IDE Used:** [Mention IDE – e.g., IntelliJ, Eclipse, BlueJ]
-- **Database:** [Mention if used – else remove]
-
+- **IDE Used:** IntelliJ IDEA
+- **Database:** Not Applicable 
 ---
 
 ## ✨ Features
