@@ -32,10 +32,9 @@ A collaborative **Group Expense Tracker Web App** built by a team of four to man
 ## 👥 Team Members
 
 - Nupur Debnath ([@Nupur191204](https://github.com/Nupur191204))  
-- [Teammate 1 Name or GitHub handle]  
-- [Teammate 2 Name or GitHub handle]  
-- [Teammate 3 Name or GitHub handle]
-
+- Chinmay Gawali  
+- Ayaan Quadeer
+- Kaushal Raj
 ---
 
 ## 🚀 How to Run
