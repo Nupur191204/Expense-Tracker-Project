@@ -1,6 +1,7 @@
 # 📊 Expense-Tracker-Project
 
 A collaborative **Group Expense Tracker Web App** built by a team of four to manage and visualize group expenses efficiently. This Java-based application helps users log shared expenses, calculate balances, and simplify group settlements.
+![App Screenshot](expense-tracker-ui.png)
 
 ---
 
